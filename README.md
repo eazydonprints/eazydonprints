@@ -1,8 +1,9 @@
-<h1> 👋 Hi, I’m @eazydonprints </h1>
+<h1> 👋 Hi, I’m Diyak Ezekiel (eazydonprints) </h1>
 <p> 👀 I’m interested in coding all the way 
-<br>🌱 I’m currently learning coding
-<br>💞️ I’m looking to collaborate on everyone
-<br>📫 How to reach me eazydonprints@gmail.com
+<br>🌱 I was born and brought up in Ta-hoss village of Riyom Local Government in Jos Plateau State
+<br>💞️ I’m looking to collaborate with everyone
+<br>📫 How to reach me? you can reach me via my email eazydonprints@gmail.com or 
+<br>📞 08146130432 on WhatsApp
 </p>
 
 <!---
